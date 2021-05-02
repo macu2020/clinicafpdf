@@ -1,0 +1,13 @@
+body h1,body h3{
+	font-family: 'New Tegomin', serif;
+	text-align: center;color: #F90517;font-weight: bold;text-shadow: 1px 1px 2px #460b09;
+}
+.thedtable{
+	background-color: #2EDCC2
+}
+body a{
+	text-decoration: none !important;
+}
+body a:hover{
+	color: #F90517;text-shadow: 1px 1px 2px #460b09;
+}
