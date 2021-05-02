@@ -1,4 +1,4 @@
-# BProyecto Clinica Fpdf
+# Projecto Clinica Fpdf
 _Este projecto es una herramienta que podemos tomar como ejemplo para exportacion de fpdpf ._
 
 ### Comenzando 🚀
